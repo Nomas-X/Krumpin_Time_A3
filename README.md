@@ -10,10 +10,10 @@ The scenario was designed with a lot of death in mind and that the players would
 
 
 ## How to play?
-[Modset/Preset](https://drive.google.com/file/d/1cWonAsRWBBGety7Badc3FeHE2wsepFod/view)
-[Warno](https://docs.google.com/document/d/1h0jngv0kjGLgDnY9lTGbo-VibrIMO7PRmrudwCTxkmI/edit?usp=sharing)
-[Recommended Addon Options](https://cdn.discordapp.com/attachments/512834814924161024/1023659059309719602/EventServer_AddonOptions_25-09-2022.txt)
-A Zeus is recommended but not required.
+- [Modset/Preset](https://drive.google.com/file/d/1cWonAsRWBBGety7Badc3FeHE2wsepFod/view)
+- [Warno](https://docs.google.com/document/d/1h0jngv0kjGLgDnY9lTGbo-VibrIMO7PRmrudwCTxkmI/edit?usp=sharing)
+- [Recommended Addon Options](https://cdn.discordapp.com/attachments/512834814924161024/1023659059309719602/EventServer_AddonOptions_25-09-2022.txt)
+- A Zeus is recommended but not required.
 
 
 ## Zeus Guide
